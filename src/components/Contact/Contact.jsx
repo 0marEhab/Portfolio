@@ -23,7 +23,7 @@ export default function Contact() {
 
   return (
     <>
-      <div>
+      <div id="Contact">
         <div className="flex justify-center gap-5 items-center font-Anton text-white text-7xl mb-10">
           <p>Contact me</p>
         </div>

@@ -29,7 +29,7 @@ const LoadingScreen = ({ onComplete }) => {
     <>
       {loading && (
         <div className="loading-screen z-50 fixed inset-0 flex items-center justify-center bg-gray-900 text-white">
-          <div className="welcome-message text-2xl md:text-7xl font-bold">
+          <div className="welcome-message text-xl md:text-7xl font-bold">
             Welcome to Omar Ehab's Portfolio
           </div>
         </div>

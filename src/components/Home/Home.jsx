@@ -24,8 +24,8 @@ export default function Home() {
               />
             </svg>
           </div>
-          <div className="flex flex-col mt-24">
-            <div>
+          <div className="flex flex-col mt-24 p-10">
+            <div className="">
               <h1 className="text-6xl md:text-8xl font-bold text-white">
                 Creative Web
               </h1>
@@ -33,13 +33,21 @@ export default function Home() {
                 Developer
               </h2>
             </div>
-            <div className="flex gap-10 mt-14">
-              <button className="bg-[#00ADB5] rounded-3xl text-white font-Merriweather text-shadow-lg px-10 py-2 hover:bg-[#0C868C] duration-200 ease-in-out">
+            <div className="flex flex-col md:flex-row gap-10 mt-14">
+              <a
+                href="#Contact"
+                className="bg-[#00ADB5] rounded-3xl text-white font-Merriweather text-shadow-lg px-10 py-2 hover:bg-[#0C868C] duration-200 ease-in-out text-center"
+              >
                 Hire Me
-              </button>
-              <button className="bg-[#393E46] rounded-3xl text-white font-Merriweather text-shadow-lg px-10 py-2 hover:bg-[#2C3034] duration-200 ease-in-out">
+              </a>
+              <a
+                href="./Resume.pdf"
+                target="_blank"
+                download="Omar_Ehab_CV.pdf"
+                className="bg-[#393E46] rounded-3xl text-white font-Merriweather text-shadow-lg px-10 py-2 hover:bg-[#2C3034] duration-200 ease-in-out text-center"
+              >
                 Download CV
-              </button>
+              </a>
             </div>
           </div>
         </div>

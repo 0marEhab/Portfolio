@@ -4,7 +4,10 @@ import Svg2 from "./Svg2";
 export default function About() {
   return (
     <>
-      <div className="  flex font-bold justify-center  md:justify-evenly mt-40 overflow-hidden  md:items-start ">
+      <div
+        id="Aboutme"
+        className="  flex font-bold justify-center  md:justify-evenly mt-40 overflow-hidden  md:items-start "
+      >
         <div className="flex  relative">
           <svg
             width="64"
@@ -23,7 +26,7 @@ export default function About() {
             />
           </svg>
 
-          <div className="flex  flex-col mt-24   ">
+          <div className="flex  flex-col mt-24 p-10  ">
             <div className="flex">
               <h1 className=" text-6xl  md:text-8xl font-bold  text-white">
                 About
@@ -33,13 +36,14 @@ export default function About() {
               </h2>
               <Svg2 />
             </div>
-            <div className="w-[350px] md:w-[450px] my-10 text-white">
+            <div className="w-[300px] md:w-[500px] my-10 text-white">
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit.
-                Asperiores, neque autem vitae nesciunt, eum similique
-                consectetur facilis expedita temporibus, molestiae totam iste!
-                Reprehenderit molestiae dignissimos voluptatem! Sequi
-                exercitationem doloremque vero.
+                I'm Omar Ehab, a passionate MERN stack developer skilled in
+                React, Node.js, and MongoDB. I specialize in creating dynamic,
+                responsive web applications with a focus on performance and user
+                experience. My goal is to build innovative, scalable solutions
+                that solve real-world problems and deliver exceptional value to
+                users.
               </p>
             </div>
             <div className=" ml-36">
@@ -67,7 +71,7 @@ export default function About() {
           <Svg />
         </div>
       </div>
-      <hr className="border-b-[1px] border-[#393E46] my-24" />
+      <hr className="border-b-[1px] border-[#393E46] my-28" />
     </>
   );
 }

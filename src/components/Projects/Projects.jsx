@@ -3,7 +3,7 @@ import { PROJECTS } from "./pro";
 
 export default function Projects() {
   return (
-    <div className="">
+    <div id="Projects">
       <div className="flex justify-center gap-5 items-center font-Anton text-white text-7xl mb-16">
         <p>Projects</p>
       </div>

@@ -24,7 +24,7 @@ export default function () {
 
   return (
     <div className="">
-      <div className="flex justify-center gap-5 items-center font-Anton text-white text-7xl mb-16">
+      <div className="flex justify-center gap-5 items-center font-Anton text-white text-7xl mt-10 mb-16">
         Skills
       </div>
       <motion.div
