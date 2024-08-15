@@ -41,7 +41,7 @@ export default function Home() {
                 Hire Me
               </a>
               <a
-                href="./Resume.pdf"
+                href="https://drive.google.com/uc?export=download&id=1gZeGDrPS9ve03tsFVSalWIrhvd9gdrLi"
                 target="_blank"
                 download="Omar_Ehab_CV.pdf"
                 className="bg-[#393E46] rounded-3xl text-white font-Merriweather text-shadow-lg px-10 py-2 hover:bg-[#2C3034] duration-200 ease-in-out text-center"
