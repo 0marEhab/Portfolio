@@ -19,7 +19,6 @@ Here are some highlights of my recent projects:
 
 - **E-Commerce Platform:** A complete online shopping experience with product management and secure payment integration.
 - **Food Ordering System:** An intuitive interface for browsing menus, placing orders, and tracking delivery.
-- **Digital Real Estate Platform:** A modern platform offering real estate brokerage services with advanced search and listing features.
 
 ## Technologies
 
