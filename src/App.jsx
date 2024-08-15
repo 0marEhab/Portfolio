@@ -1,6 +1,6 @@
 import { useState } from "react";
 import NavBar from "./components/layout/NavBar";
-import "./app.css";
+import "./App.css";
 import ScrollSection from "./components/ScrollSection/ScrollSection";
 import Projects from "./components/Projects/Projects";
 import Scroll from "./components/Scroll/Scroll";
