@@ -23,14 +23,14 @@ Here are some highlights of my recent projects:
 
 ## Technologies
 
-- **Frontend:** React, Tailwind CSS, GSAP
+- **Frontend:** React, Tailwind CSS, GSAP ,Motion framer
 - **Backend:** Node.js, Express
-- **Database:** MongoDB
-- **Tools:** Git, Docker
+- **Database:** MongoDB,MySQL
+- **Tools:** Git
 
 ## Contact
 
 Feel free to reach out for collaboration or inquiries:
 
-- **Email:** [omar.ehab@example.com](mailto:omar.ehab@example.com)
-- **LinkedIn:** [linkedin.com/in/omarehab](https://www.linkedin.com/in/omarehab)
+- **Email:** [mooroehab18@gmail.com](mailto:mooroehab18@gmail.com)
+- **LinkedIn:** [linkedin.com/in/omarehab](https://www.linkedin.com/in/omarehab01/)
