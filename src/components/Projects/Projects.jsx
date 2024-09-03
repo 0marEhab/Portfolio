@@ -24,6 +24,17 @@ export default function Projects() {
                   Github
                 </button>
               </a>
+              {project.live == "not Available" ? (
+                <button className="w-full border-2  border-violet-950 hover:bg-violet-900 hover:border-x-white duration-200 rounded-3xl text-xl">
+                  Not Available
+                </button>
+              ) : (
+                <a href={project.live} target="_blank" className="w-full ">
+                  <button className="w-full border-2  border-violet-950 hover:bg-violet-900 hover:border-x-white duration-200 rounded-3xl text-xl">
+                    Live
+                  </button>
+                </a>
+              )}
             </div>
           </div>
         </div>
