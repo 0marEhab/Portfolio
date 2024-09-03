@@ -11,6 +11,7 @@ export const PROJECTS = [
     description:
       "amazing website UI and comfortable UX with abilty to choose what u want to eat and add it in shopping cart and order functionality",
     github: "https://github.com/0marEhab/FrontEnd-Projects/tree/main/Food",
+    live: "not Available",
   },
   {
     title: "Task mangement",
@@ -19,6 +20,7 @@ export const PROJECTS = [
       " an application for manging tasks and projects with fully crud experience",
     github:
       "https://github.com/0marEhab/FrontEnd-Projects/tree/main/To-Do%20list",
+    live: "https://taskmangement-flame.vercel.app/",
   },
   {
     title: "clothes e-commerce",
@@ -27,6 +29,7 @@ export const PROJECTS = [
       " mini e-commerce website with features like product listing and shopping cart ",
     github:
       "https://github.com/0marEhab/FrontEnd-Projects/tree/main/Mini%20E-commerce",
+    live: "https://reactclothes.vercel.app/",
   },
   {
     title: "Place picker",
@@ -35,6 +38,7 @@ export const PROJECTS = [
       " a creative website that asks you to your location and provide to you the nearest good place to go",
     github:
       "https://github.com/0marEhab/FrontEnd-Projects/tree/main/Place%20picker",
+    live: "https://placepicker-five.vercel.app/",
   },
   {
     title: "Quiz application",
@@ -42,5 +46,6 @@ export const PROJECTS = [
     description:
       "A quiz application that can test your experiance in react with a timer for each question and fully result details at the end",
     github: "https://github.com/0marEhab/FrontEnd-Projects/tree/main/Quiz",
+    live: "https://quiz-murex-pi-83.vercel.app/",
   },
 ];
